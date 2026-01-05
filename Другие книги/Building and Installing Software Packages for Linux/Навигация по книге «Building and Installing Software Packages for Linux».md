@@ -4,3 +4,4 @@
 [[04 - Глава 4. Предварительно упакованные бинарные пакеты (Prepackaged Binaries)]]
 [[05 - Глава 5. Проблемы Termcap и Terminfo (Termcap and Terminfo Issues)]]
 [[06 - Глава 6. Обратная совместимость с бинарниками a.out (Backward Compatibility With a.out Binaries)]]
+[[07 - Глава 7. Устранение неполадок (Troubleshooting)]]
