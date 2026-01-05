@@ -8,3 +8,4 @@
 [[08 - Глава 8. Финальные шаги (Final Steps)]]
 [[09 - Глава 9. Первый пример Xscrabble (First Example Xscrabble)]]
 [[10 - Глава 10. Второй пример Xloadimage (Second Example Xloadimage)]]
+[[11 - Глава 11. Третий пример. Fortune]]
