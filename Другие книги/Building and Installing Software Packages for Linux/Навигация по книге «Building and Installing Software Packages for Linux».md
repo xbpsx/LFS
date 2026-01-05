@@ -6,3 +6,5 @@
 [[06 - Глава 6. Обратная совместимость с бинарниками a.out (Backward Compatibility With a.out Binaries)]]
 [[07 - Глава 7. Устранение неполадок (Troubleshooting)]]
 [[08 - Глава 8. Финальные шаги (Final Steps)]]
+[[09 - Глава 9. Первый пример Xscrabble (First Example Xscrabble)]]
+[[10 - Глава 10. Второй пример Xloadimage (Second Example Xloadimage)]]
