@@ -9,3 +9,5 @@
 [[09 - Глава 9. Первый пример Xscrabble (First Example Xscrabble)]]
 [[10 - Глава 10. Второй пример Xloadimage (Second Example Xloadimage)]]
 [[11 - Глава 11. Третий пример. Fortune]]
+[[12 - Глава 12. Четвертый пример. Hearts]]
+[[13 - Глава 13. Пятый пример. XmDipmon]]
