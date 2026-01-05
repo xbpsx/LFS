@@ -5,3 +5,4 @@
 [[05 - Глава 5. Проблемы Termcap и Terminfo (Termcap and Terminfo Issues)]]
 [[06 - Глава 6. Обратная совместимость с бинарниками a.out (Backward Compatibility With a.out Binaries)]]
 [[07 - Глава 7. Устранение неполадок (Troubleshooting)]]
+[[08 - Глава 8. Финальные шаги (Final Steps)]]
